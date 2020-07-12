@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+  
+<h1 align="center">  
+Akash Sharma - @AKASHCS50
+</h1>
 
-<!--
-**AKASHCS50/AKASHCS50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="Black.png" width="100%">
+<hr/><br/>
 
-Here are some ideas to get you started:
+## Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center">
+
+[<img src="google.png" width="70">](mailto:akcount121@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="linkedin.png" width="70">](https://www.linkedin.com/in/-akash-sharma/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="twitter.png" width="70">](https://twitter.com/AkashSh21011878) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="instagram.png" width="70">](https://www.instagram.com/marcos_akash/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="facebook.png" width="70">](https://www.facebook.com/profile.php?id=100026435492325)
+
+</p>
+
+
+
+
+</div>
