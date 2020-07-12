@@ -7,7 +7,6 @@ Akash Sharma - @AKASHCS50
 <img src="Black.png" width="100%">
 <hr/><br/>
 
-## Get in touch
 
 <br/>
 
