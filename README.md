@@ -4,7 +4,7 @@
 Akash Sharma - @AKASHCS50
 </h1>
 
-<img src="Black.png" width="100%">
+<img src="https://github.com/AKASHCS50/AKASHCS50/blob/master/Black.png" width="100%">
 <hr/><br/>
 
 
