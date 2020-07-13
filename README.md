@@ -18,7 +18,7 @@ Akash Sharma - @AKASHCS50
 
 <br/>
 
-<img src="https://github.com/AKASHCS50/AKASHCS50/blob/master/affilate-bg-footer-img.jpg" width="100%" height="100">
+
 
 
 </div>
